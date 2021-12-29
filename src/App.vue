@@ -118,10 +118,6 @@
 </script>
 
 <style>
-	* {
-		font-weight: 100;
-	}
-	
 	p {
 		font-size: 12px;
 	}
